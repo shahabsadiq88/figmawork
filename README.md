@@ -4,7 +4,7 @@
 **Tool Used:** Figma  
 
 ### Figma Wireframe Link:
-https://www.figma.com/design/l17cg1J3x0gpps0QlCVxFT/PRACTICE?node-id=0-1&t=aRv7qMJss88mEqbK-1
+https://www.figma.com/design/l17cg1J3x0gpps0QlCVxFT/PRACTICE?node-id=971-3215&t=aRv7qMJss88mEqbK-1
 
 ### Screens Covered:
 - Onboarding Screen
